@@ -8,5 +8,5 @@ How to use:
 # configure.py
 auth_key = "your-api-token"
 ```
-* Run command to install dependencies >> pip install -r requirements.txt
-* Run module to start the real time transcription >> python main.py
+* Run command to install dependencies >> `pip install -r requirements.txt`
+* Run module to start the real time transcription >> `python main.py`
